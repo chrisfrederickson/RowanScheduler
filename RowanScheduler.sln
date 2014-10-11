@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RowanScheduler", "RowanScheduler\RowanScheduler.vcxproj", "{FB1BF80C-EAB2-4AA4-92C7-1A1483AD3AE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB1BF80C-EAB2-4AA4-92C7-1A1483AD3AE3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FB1BF80C-EAB2-4AA4-92C7-1A1483AD3AE3}.Debug|Win32.Build.0 = Debug|Win32
+		{FB1BF80C-EAB2-4AA4-92C7-1A1483AD3AE3}.Release|Win32.ActiveCfg = Release|Win32
+		{FB1BF80C-EAB2-4AA4-92C7-1A1483AD3AE3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
